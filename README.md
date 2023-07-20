@@ -27,26 +27,27 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [To Do list] <a name="about-project"></a>
+# 📖 [Javascript Testing] <a name="about-project"></a>
 
-To Do List.
+Javascript Testing using Jest library
 
-**[To Do List]** A simple HTML list of To Do tasks
+**[Javascript Testing]** setting up a test for javascript functions
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
- 1. HTML5
- 2. CSS3
- 3. JavaScript
+  1. JavaScript
+  2. Jest Library
+
 
 
 ### Key Features <a name="key-features"></a>
 
-  1. List Structure
-  2. Dynamically created list of tasks.
-  3. set style rules for To Do list
-  4. Add functionality to add and remove task
+  1. test string length function
+  2. test reverse string function
+  3. test capitlize first letter function
+  4. test calculator function
+ 
   
 
 
@@ -66,7 +67,7 @@ install node and vscode
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:MargaretTechworld/ToDo-Tasks.git
+  git clone git@github.com:MargaretTechworld/testing-practice.git
 ```
 
 ### Install
@@ -74,7 +75,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd ToDo-Tasks
+  cd testing-practice
   npm install
 ```
 ### Usage
@@ -100,15 +101,14 @@ npm start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
- ## 🚀Live Demo <a name="live-demo"></a>
- - Live Demo: [Live Demo Link](https://margarettechworld.github.io/ToDO-Tasks/)
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 ##👍 Contributors
-Feel free to check the [issues page](https://github.com/MargaretTechworld/ToDo-tasks/issues).
+Feel free to check the [issues page](https://github.com/MargaretTechworld/testing-practice/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
